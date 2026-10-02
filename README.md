@@ -21,6 +21,7 @@
 
 
 ***Блок-схема***
+
 <img width="247" height="753" alt="изображение" src="https://github.com/user-attachments/assets/e5a0b85c-e83b-415e-b9a3-f0973ba62016" />
 
 
