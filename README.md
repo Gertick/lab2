@@ -21,7 +21,8 @@
 
 
 ***Блок-схема***
-![Блок-схема](https://drive.google.com/file/d/1aVWj_eLAAWCg_EqHmJTrK9_yESULqgKI/view?usp=sharing)
+![Блок-схема](<img width="236" height="743" alt="photo_2026-10-02_23-35-11" src="https://github.com/user-attachments/assets/bf268e86-cd53-4f6f-8915-e027f4ac71ec" />
+)
 
 https://drive.google.com/file/d/1aVWj_eLAAWCg_EqHmJTrK9_yESULqgKI/view?usp=sharing
 
